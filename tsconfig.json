@@ -3,6 +3,7 @@
     "baseUrl": "./",
     "target": "ES6",
     "module": "ESNext",
-    "lib": ["es2016", "dom"]
+    "lib": ["es2016", "dom"],
+    "types": ["node"]
   }
 }
